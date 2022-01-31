@@ -1,6 +1,6 @@
 # makeupapp
 
-Demo App built with flutter 
+Demo App built using flutter with: 
 
 GETX Pattern
 
